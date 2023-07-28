@@ -13,7 +13,7 @@ public class main {
         ArrayList <ToyShop> set =new ArrayList<>();
         set.add(new ToyShop(17, "Hello Kitty", 6));
         set.add(new ToyShop(21, "Pokemon", 5));
-        set.add(new ToyShop(7, "Teddy Bear", 2));
+        set.add(new ToyShop(7, "Bear", 2));
         set.add(new ToyShop(27, "Batman", 2));
         set.add(new ToyShop(5, "Sailor Moon", 2));
 
