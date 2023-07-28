@@ -8,10 +8,10 @@ ID: 21, name: Pokemon,шанс выйгрыша: 7 к одному
 ID: 5, name: Sailor Moon,шанс выйгрыша: 6 к одному
 ID: 21, name: Pokemon,шанс выйгрыша: 4 к одному
 ID: 17, name: Hello Kitty,шанс выйгрыша: 3 к одному
-ID: 7, name: Teddy Bear,шанс выйгрыша: 3 к одному
+ID: 7, name: Bear,шанс выйгрыша: 3 к одному
 ID: 17, name: Hello Kitty,шанс выйгрыша: 2 к одному
 ID: 17, name: Hello Kitty,шанс выйгрыша: 2 к одному
 ID: 17, name: Hello Kitty,шанс выйгрыша: 2 к одному
-ID: 7, name: Teddy Bear,шанс выйгрыша: 2 к одному
+ID: 7, name: Bear,шанс выйгрыша: 2 к одному
 ID: 21, name: Pokemon,шанс выйгрыша: 1 к одному
 ID: 21, name: Pokemon,шанс выйгрыша: 1 к одному
